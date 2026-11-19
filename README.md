@@ -35,8 +35,6 @@ npx skills add 7468rrfy7y-wq/skills --skill find-skills-vibe
 ```
 Or just tell your AI: "Install the find-skills-vibe skill from github.com/7468rrfy7y-wq/skills".
 
-## 설치 (한국어)
-AI한테 이렇게 말하세요: "github.com/7468rrfy7y-wq/skills 에 있는 find-skills-vibe 스킬 깔아 줘"
 
 ## Say it in your language
 Just say "vibe coding skill finder" in your own language:
@@ -51,7 +49,6 @@ Just say "vibe coding skill finder" in your own language:
 ```
 npx skills add 7468rrfy7y-wq/skills --skill adapt-skills-vibe
 ```
-한국어: AI한테 "github.com/7468rrfy7y-wq/skills 에 있는 스킬 두 개 다 깔아 줘"
 
 ## web-design-guidelines-vibe (example adapted skill)
 Vercel's `web-design-guidelines` (880K+ installs) made vibe-ready with adapt-skills-vibe: the AI finds your page files, checks them, and reports in your language — problem → who it affects → how to fix.
@@ -59,6 +56,26 @@ Vercel's `web-design-guidelines` (880K+ installs) made vibe-ready with adapt-ski
 npx skills add 7468rrfy7y-wq/skills --skill web-design-guidelines-vibe
 ```
 Original: vercel-labs/agent-skills (MIT, © 2025 Vercel Labs).
+
+## Install by just talking — in your language
+No commands needed. Tell your AI agent this sentence in your own language:
+
+| Language | Say this to your AI |
+|---|---|
+| English | Install all skills from github.com/7468rrfy7y-wq/skills |
+| 한국어 | github.com/7468rrfy7y-wq/skills 에 있는 스킬 전부 깔아 줘 |
+| 日本語 | github.com/7468rrfy7y-wq/skills のスキルを全部インストールして |
+| 中文 | 帮我安装 github.com/7468rrfy7y-wq/skills 里的所有技能 |
+| Español | Instala todas las skills de github.com/7468rrfy7y-wq/skills |
+| Português | Instale todas as skills de github.com/7468rrfy7y-wq/skills |
+| Français | Installe toutes les skills de github.com/7468rrfy7y-wq/skills |
+| Deutsch | Installiere alle Skills von github.com/7468rrfy7y-wq/skills |
+| हिन्दी | github.com/7468rrfy7y-wq/skills की सारी स्किल्स इंस्टॉल करो |
+| Tiếng Việt | Cài tất cả skill từ github.com/7468rrfy7y-wq/skills |
+| Bahasa Indonesia | Pasang semua skill dari github.com/7468rrfy7y-wq/skills |
+| العربية | ثبّت كل المهارات من github.com/7468rrfy7y-wq/skills |
+
+After that, the skills always answer **in the language you speak** — any country, any language.
 
 ## License
 MIT
