@@ -1,6 +1,6 @@
 # Vibe skills: find-skills-vibe + adapt-skills-vibe
 
-Two skills that work together:
+Skills that work together:
 - **find-skills-vibe** — finds, vets and installs skills, in your language
 - **adapt-skills-vibe** — turns any coding skill into a vibe-coding skill: AI does every technical step in the background, you get a verified report at the end
 
@@ -51,6 +51,13 @@ Just say "vibe coding skill finder" in your own language:
 npx skills add 7468rrfy7y-wq/skills --skill adapt-skills-vibe
 ```
 한국어: AI한테 "github.com/7468rrfy7y-wq/skills 에 있는 스킬 두 개 다 깔아 줘"
+
+## web-design-guidelines-vibe (example adapted skill)
+Vercel's `web-design-guidelines` (880K+ installs) made vibe-ready with adapt-skills-vibe: the AI finds your page files, checks them, and reports in your language — problem → who it affects → how to fix.
+```
+npx skills add 7468rrfy7y-wq/skills --skill web-design-guidelines-vibe
+```
+Original: vercel-labs/agent-skills (MIT, © 2025 Vercel Labs).
 
 ## License
 MIT
