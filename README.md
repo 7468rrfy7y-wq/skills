@@ -23,5 +23,9 @@ Or just tell your AI: "Install the find-skills-vibe skill from github.com/7468rr
 ## 설치 (한국어)
 AI한테 이렇게 말하세요: "github.com/7468rrfy7y-wq/skills 에 있는 find-skills-vibe 스킬 깔아 줘"
 
+## Say it in your language
+Just say "vibe coding skill finder" in your own language:
+바이브코딩 스킬 찾기 · バイブコーディング スキル探し · 氛围编程 找技能 · buscar skills vibe coding · procurar skills vibe coding · chercher des skills vibe coding · Vibe-Coding Skills finden · वाइब कोडिंग स्किल खोजो · tìm skill vibe coding · cari skill vibe coding · ابحث عن مهارة برمجة
+
 ## License
 MIT

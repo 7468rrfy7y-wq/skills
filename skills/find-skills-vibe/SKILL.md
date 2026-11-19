@@ -1,6 +1,6 @@
 ---
 name: find-skills-vibe
-description: Find, vet, install and adapt agent skills for vibe coders (people who build by talking to AI, often without reading code or English). Use when the user asks "is there a skill for X", "find/install a skill", when they get frustrated by the same AI mistake twice (fake "done", missed edits, ignored instructions), or before starting a new kind of task. Always reports in the user's own language, installs for them, builds a custom skill when none fits, and only says "done" after a verified before/after table.
+description: "Find, vet, install and adapt agent skills for vibe coders (people who build by talking to AI, often without reading code or English). Use when the user asks for a skill in any language, e.g. \"find skills vibe\", \"vibe coding skill finder\", \"바이브코딩 스킬 찾기\", \"バイブコーディング スキル探し\", \"氛围编程 找技能\", \"buscar skills vibe coding\", \"procurar skills vibe coding\", \"chercher des skills vibe coding\", \"Vibe-Coding Skills finden\", \"वाइब कोडिंग स्किल खोजो\", \"tìm skill vibe coding\", \"cari skill vibe coding\", \"ابحث عن مهارة برمجة\"; or when they get frustrated by the same AI mistake twice (fake \"done\", missed edits, ignored instructions). Replies in the user's language, installs for them, builds a custom skill when none fits, and only says \"done\" after a verified before/after table."
 ---
 
 # Find Skills — Vibe Coding Edition
