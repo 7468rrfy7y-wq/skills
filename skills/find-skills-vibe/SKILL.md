@@ -57,6 +57,7 @@ Then one line: "My pick is #_, because ___." Then ask whether to install. Do not
 - If you can run commands, install it yourself: `npx skills add <owner/repo> --skill <name> -g -y`.
 - If you cannot (e.g. chat apps), fetch the skill and offer to save a **copy translated into the user's language**: translate explanations and rules, keep commands and code exactly as they are, credit the original source at the top.
 - Add the user's own frustrations as extra rules in the copy, so the skill fits *their* way of vibe coding.
+- If the skill is written for developers (tells the user to run commands, read code, edit configs) and `adapt-skills-vibe` is installed, hand it over to `adapt-skills-vibe` right away so it becomes vibe-ready (background execution + verified report). If it is not installed, offer to install it from `7468rrfy7y-wq/skills`.
 
 ## Step 7 — Nothing fits? Build it
 - Combine the useful parts of several candidates into one new skill.

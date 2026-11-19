@@ -1,4 +1,18 @@
-# find-skills-vibe
+# Vibe skills: find-skills-vibe + adapt-skills-vibe
+
+Two skills that work together:
+- **find-skills-vibe** — finds, vets and installs skills, in your language
+- **adapt-skills-vibe** — turns any coding skill into a vibe-coding skill: AI does every technical step in the background, you get a verified report at the end
+
+Install both and every skill in the open ecosystem becomes usable just by talking.
+
+```
+npx skills add 7468rrfy7y-wq/skills --all
+```
+
+---
+
+## find-skills-vibe
 
 **Find, vet, install and adapt agent skills — for vibe coders, in any language.**
 **바이브코더를 위한 스킬 찾기 — 어느 나라 말이든 그 사람 말로.**
@@ -26,6 +40,17 @@ AI한테 이렇게 말하세요: "github.com/7468rrfy7y-wq/skills 에 있는 fin
 ## Say it in your language
 Just say "vibe coding skill finder" in your own language:
 바이브코딩 스킬 찾기 · バイブコーディング スキル探し · 氛围编程 找技能 · buscar skills vibe coding · procurar skills vibe coding · chercher des skills vibe coding · Vibe-Coding Skills finden · वाइब कोडिंग स्किल खोजो · tìm skill vibe coding · cari skill vibe coding · ابحث عن مهارة برمجة
+
+## adapt-skills-vibe
+- Rewrites developer instructions ("run this", "edit that") into "the AI does it and tells you"
+- Keeps commands and code exactly as the original, credits the source, never overwrites it
+- Asks one plain sentence only before risky steps (delete, deploy, pay, send)
+- Ends every job with a before/after report in your language, saved as REPORT-<date>.md
+
+```
+npx skills add 7468rrfy7y-wq/skills --skill adapt-skills-vibe
+```
+한국어: AI한테 "github.com/7468rrfy7y-wq/skills 에 있는 스킬 두 개 다 깔아 줘"
 
 ## License
 MIT
