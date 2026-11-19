@@ -21,9 +21,28 @@ Vibe coders build by describing what they want (often by voice). Many cannot rea
 4. **Ask before installing.** Show what you found, then ask "Install it?" in their language.
 
 ## When to use
+- **Proactively, at the start of any new task or project** (an app, a page, a video, a document, a deployment …) — even if the user did not ask. Vibe coders often don't know which skills exist, so they can't ask for them. Run Step 0.
 - "Is there a skill for …?", "find me a skill", "find it on GitHub and install it"
 - The user is annoyed by the same AI behavior twice or more (claims of completion that weren't true, edits not applied, instructions forgotten, same bug repeated)
 - Starting a new kind of work (design, tests, deploy, video, docs, data …)
+
+## Step 0 — Proactive recommendations (engineer-level, vibe-ready)
+At the start of a new task, before doing the work:
+1. Ask yourself: "What skills would a professional engineer use for this task?" (e.g. testing, accessibility review, security check, performance, deployment, code review, design system, SEO).
+2. Search for them (Step 3) and vet them (Step 4). Keep the best 3–7.
+3. Post one summary in the user's language. Start with this line, translated into the user's language:
+
+   **"Skills that only professional engineers could use are now available to you through vibe coding."**
+
+   Then one table:
+
+   | # | Skill (meaning in user's language) | What engineers use it for | What it does for you (plain words) | Installs | Source | Risk |
+   |---|---|---|---|---|---|---|
+
+   Then: "My top pick for this task is #_, because ___. Install? (I'll make it vibe-ready and run it in the background.)"
+4. Keep it to one short message. Do not block the task: if the user ignores it, continue the work.
+5. Do not repeat the same recommendations for the same project; only recommend again when the task changes.
+6. When the user picks skills: install them (Step 6) and hand developer-style ones to `adapt-skills-vibe`.
 
 ## Step 1 — Turn the need into one line
 Rewrite the user's words, including the frustration, as: "A skill that makes the AI ___ when ___ ." If it is unclear, ask **one** short question.

@@ -20,6 +20,7 @@ npx skills add 7468rrfy7y-wq/skills --all
 Inspired by `find-skills` (vercel-labs/skills). Made by a vibe coder who builds only by voice, can't read code or English.
 
 ## What it does
+- **Recommends engineer-level skills on its own** when you start a task — "Skills that only professional engineers could use are now available to you through vibe coding."
 - Answers in **your** language (Korean, Japanese, Spanish, Hindi … whatever you speak)
 - Adapts to **your** vibe-coding style: you talk, it runs the commands
 - Checks your own skills first, then searches skills.sh / GitHub
